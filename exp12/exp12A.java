@@ -46,7 +46,7 @@ class thirteenTable extends Thread
     }
 }
 
-class exp12
+class exp12A
 {
     public static void main(String[] args)
     {
